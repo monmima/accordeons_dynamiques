@@ -1,0 +1,1 @@
+const nomSection = "Exemple d'erreur";
